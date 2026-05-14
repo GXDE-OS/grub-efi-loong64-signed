@@ -1,3 +1,9 @@
+grub-efi-loong64-signed (1.5+2.12-7deepin9) unstable; urgency=medium
+
+  * 移除loong64 grub efi 中的 progress 模块
+
+ -- zhouzilong <zhouzilong@uniontech.com>  Thu, 14 May 2026 16:33:17 +0800
+
 grub-efi-loong64-signed (1.5+2.12-7deepin8) unstable; urgency=medium
 
   * separate the grub.efi file for deepin/uos
